@@ -1,3 +1,3 @@
 module.exports = {
-    exists: true
+    '2fa': false
 };
