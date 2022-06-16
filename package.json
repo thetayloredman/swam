@@ -1,6 +1,6 @@
 {
     "name": "swam",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "description": "Smart Web Application Minifier",
     "main": "dist/index.js",
     "repository": "https://github.com/thetayloredman/swam.git",
